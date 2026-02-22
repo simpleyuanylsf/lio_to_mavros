@@ -1,0 +1,9 @@
+<launch>
+    <!-- 仅启动 lio_to_mavros_node 节点，无任何参数/话题修改 -->
+    <node 
+        pkg="lio_to_mavros"        
+        type="lio_to_mavros_node"  
+        name="lio_to_mavros"       
+        output="screen"           
+    />
+</launch>
