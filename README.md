@@ -8,6 +8,6 @@
 roslaunch lio_to_mavros lio_to_mavros.launch
 ```
 
-## 有问题的话
+## 反馈
 
-发邮件到256395180@qq.com
+若有问题 发邮件到256395180@qq.com
